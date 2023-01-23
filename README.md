@@ -9,5 +9,3 @@ The program downloads courses at:
 - 12 p.m
 - 2 p.m
 - 4 p.m
-
-You can manually download a course at any time.
